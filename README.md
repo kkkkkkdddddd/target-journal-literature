@@ -1,4 +1,4 @@
-# arget-journal-literature
+# target-journal-literature
  (找目标期刊论文)
 
 A Claude Code skill for searching related academic literature in target journals and generating structured knowledge cards.
